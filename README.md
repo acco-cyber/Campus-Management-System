@@ -74,8 +74,4 @@ Make sure to configure your Firebase settings in the `firebase_config.json` file
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## 📄License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/miteshgupta07/Face-Recognition-with-Real-Time-Database/blob/main/LICENSE) file for details.
 
-## 📧Contact
-If you have any questions or feedback, feel free to reach out to me at miteshgupta2711@gmail.com.
