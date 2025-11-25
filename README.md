@@ -1,4 +1,4 @@
-# 🙎‍♂️Face Recognition System with Real-Time Database
+# Face Recognition System with Real-Time Database
 
 ## 📋 Overview
 
