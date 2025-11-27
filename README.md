@@ -72,6 +72,6 @@ Make sure to configure your Firebase settings in the `firebase_config.json` file
 ```
 
 ## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
 
 
